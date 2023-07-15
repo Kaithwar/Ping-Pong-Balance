@@ -1,0 +1,2 @@
+# Ping-Pong-Balance
+This project aims to achieve dynamic balance of a ball on a plate by processing its position and controlling a servo motor accordingly. It involves applying Canny's Edge Detection algorithm to the camera's input, detecting the ball's edges using Hough Transform, and calculating the difference in centers to adjust the servo motor. The goal is to maintain equilibrium and stability of the ball on the plate.
